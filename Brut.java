@@ -3,11 +3,11 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-public class WordlistScanner {
+public class Brut {
 
     public static void main(String[] args) {
         if (args.length < 2) {
-            System.out.println("Usage: java WordlistScanner <URL> <wordlist>");
+            System.out.println("Usage: java Brut <URL> <wordlist>");
             return;
         }
 
