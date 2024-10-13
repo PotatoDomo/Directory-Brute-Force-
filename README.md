@@ -7,5 +7,5 @@ The tool takes a base URL and a .txt file as inputs. It appends each word in the
 
 # How to use it 
 
-java Brut <URL> <.txt file>
+java Brut <url> <.txt file>
 
