@@ -1,0 +1,8 @@
+admin
+login
+dashboard
+logs
+images
+config
+files
+
